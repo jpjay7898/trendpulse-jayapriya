@@ -1,0 +1,82 @@
+post_id,title,category,score,num_comments,author,collected_at
+49875913,"Parley: Federated, decentralised chat that speaks plain IRC",technology,197,92,davidcollantes,2026-09-28 21:06:21.111516
+49879032,Jensen Huang says AI distillation is 'competition.',technology,37,21,cramer4next,2026-09-28 21:06:21.111542
+49873241,Thinking fast and slow in AI: The role of metacognition (2021),technology,150,57,teleforce,2026-09-28 21:06:21.111587
+49869755,Malleable software: Restoring user agency in a world of locked-down apps (2025),technology,133,65,evakhoury,2026-09-28 21:06:21.111591
+49872883,Nissan's third generation e-POWER powertrain,technology,122,259,mroche,2026-09-28 21:06:21.111624
+49868404,Don't couple your Go code to GitHub,technology,294,154,birdculture,2026-09-28 21:06:21.111636
+49849409,Writing Efficient C++ Code (2013),technology,170,137,ibobev,2026-09-28 21:06:21.111668
+49877813,Has Violence Against Teachers Become Accepted by Society?,technology,107,179,obscurette,2026-09-28 21:06:21.111683
+49868753,"Calling the AI bluff: Adding ""Do not guess"" cut made-up claims from 71% to 20%",technology,69,16,FKJ,2026-09-28 21:06:21.111702
+49856885,Fakecloud: Local AWS cloud emulator for integration tests,technology,147,74,theanonymousone,2026-09-28 21:06:21.111715
+49877374,OpenAI Pauses Training Its Most Powerful Models After Agents Target Government,technology,7,3,chunky1994,2026-09-28 21:06:21.111737
+49857281,There is more to code review than (automatable) detection,technology,155,104,utiiiD,2026-09-28 21:06:21.111751
+49875347,"Big AI's content problem: Take the work, keep the money",technology,23,3,samizdis,2026-09-28 21:06:21.111760
+49867486,The Normalization of Inexplicable Failures,technology,273,117,pxx,2026-09-28 21:06:21.111782
+49876883,"Una watch review: A modular, repairable GPS watch is a good first step",technology,9,1,poisonborz,2026-09-28 21:06:21.111787
+49867775,Show HN: TinyAIArena watch AI agents battle it out,technology,115,45,hp6,2026-09-28 21:06:21.111795
+49876158,Rails World 2026 Closing Keynote – Aaron Patterson [video],technology,10,6,sinnsro,2026-09-28 21:06:21.111803
+49867067,On caring for user data: NeoVim caused Vim undo files to be deleted,technology,380,339,jandeboevrie,2026-09-28 21:06:21.111818
+49872200,Cambrian Explosion of AI,technology,14,17,debarshri,2026-09-28 21:06:21.111845
+49875148,AI companies in race to demonstrate their model most threatening to humanity,technology,401,344,ljewalsh,2026-09-28 21:06:21.111850
+49870377,Luarocks.org remote code execution exploit,technology,28,4,cupcakerob,2026-09-28 21:06:21.111864
+49866534,Ten lines of code that changed my world,technology,136,43,dimonomid,2026-09-28 21:06:21.111884
+49863864,Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI,technology,621,607,papergirl,2026-09-28 21:06:21.111926
+49875401,Three Days in August: What a DDoS Attack Exposed in Our Network,worldnews,18,16,nine_ch,2026-09-28 21:06:23.112988
+49872468,OpenAI pauses training of latest models after agents probed US Government sites,worldnews,29,2,daniel_iversen,2026-09-28 21:06:23.113421
+49864642,"Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",worldnews,456,299,rbanffy,2026-09-28 21:06:23.113481
+49832768,A searchable library of forgotten public-domain film clips from 1915 onward,worldnews,211,27,momentmaker,2026-09-28 21:06:23.113490
+49875895,Congressman Cohen Introduces Articles of Impeachment Against President Trump,worldnews,40,3,hkhn,2026-09-28 21:06:23.113515
+49856665,OpenAI bots meddled with multiple US Government agency sites,worldnews,131,193,Betelbuddy,2026-09-28 21:06:23.113785
+49833867,Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design,worldnews,421,141,sidharthkmenon,2026-09-28 21:06:23.113963
+49841563,Dutch governments builds alternative for Microsoft based on NixOS,worldnews,1010,581,fjfaase,2026-09-28 21:06:23.114417
+49872636,"Comet SWAN26Q – The unconfirmed Scout object warrants monitoring, not concern",worldnews,5,1,JEOFFEZZ,2026-09-28 21:06:23.114530
+49829960,Owners mourn spoiled food after firmware update bricks Samsung smart fridges,worldnews,323,331,nonfamous,2026-09-28 21:06:23.114583
+49871877,Judge orders release of records on Nazi war criminals who settled in Canada,worldnews,27,7,Teever,2026-09-28 21:06:23.114682
+49811429,Data-only attacks are easier than you think (2024),worldnews,102,44,segfaultbuserr,2026-09-28 21:06:23.114738
+49860011,New Boeing 737 MAX Software Glitch Could Disrupt Navigation Feature,worldnews,29,1,trimbo,2026-09-28 21:06:23.114776
+49811065,Transit rewards,worldnews,258,345,raybb,2026-09-28 21:06:23.114862
+49832406,GitHub has not removed malicious imitation software after 3 weeks,worldnews,278,119,hermitcrab,2026-09-28 21:06:23.114948
+49828409,Starlink ground station in Poland hit by fire in suspected arson attack,worldnews,181,181,giuliomagnifico,2026-09-28 21:06:23.114963
+49835913,August 27 TCRF DDoS Attack Postmortem,worldnews,34,14,panic,2026-09-28 21:06:23.115011
+49864790,OpenAI pauses training of latest models after agents probed US Government sites,worldnews,16,1,ml-student,2026-09-28 21:06:23.115077
+49871846,The great crime decline is happening all across the country,worldnews,38,50,andsoitis,2026-09-28 21:06:23.115098
+49869691,Meta's Muse agent is attacking one of the economy's most profitable weak spots,worldnews,8,1,pseudolus,2026-09-28 21:06:23.115202
+49808109,The UV index is not the warm sensation of sunlight on bare skin,worldnews,99,79,evakhoury,2026-09-28 21:06:23.115301
+49851355,OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites,worldnews,62,14,jbegley,2026-09-28 21:06:23.115415
+49849820,Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia,sports,63,43,msephton,2026-09-28 21:06:25.117364
+49844642,What happens when you analyze your favorite college football team like the CIA?,sports,64,35,adam,2026-09-28 21:06:25.117400
+49836590,The Board Game of the Alpha Nerds (2014),sports,122,65,neonate,2026-09-28 21:06:25.117555
+49857528,Show HN: A Claude Code skill to analyze your chess games,sports,75,55,brumar,2026-09-28 21:06:25.118379
+49849406,Time Measurement in Game Programming,sports,13,0,ibobev,2026-09-28 21:06:25.118465
+49857651,Banks and Credit Unions to Team Up Against Apple Pay Fees,sports,124,127,Brajeshwar,2026-09-28 21:06:25.118601
+49829387,Hackers influence ChatGPT and Gemini to direct users to scam centers,sports,143,52,ArielSimon,2026-09-28 21:06:25.118665
+49847157,Show HN: I made a WWI dogfight game that runs in the browser,sports,7,7,fullstackwife,2026-09-28 21:06:25.119069
+49866951,"In an $80 motel room, a discovery to shed light on the origins of life",science,278,105,danso,2026-09-28 21:06:27.121832
+49875411,SpaceX's Starship launching to orbit for first time ever today,science,262,241,geox,2026-09-28 21:06:27.122003
+49839438,"Biology might not be quantum, but its math is quantumlike",science,121,60,pseudolus,2026-09-28 21:06:27.122325
+49872497,Research finds 485 chemicals in US pesticide products linked to breast cancer,science,89,25,Teever,2026-09-28 21:06:27.122410
+49830606,Google’s Project Suncatcher to put ML infrastructure in space,science,232,541,xnx,2026-09-28 21:06:27.122890
+49872143,The Truth Physics Can No Longer Ignore,science,10,11,jdkee,2026-09-28 21:06:27.123093
+49853918,Alberta's image as world's only rat-free region shattered by discovery of rat,science,47,34,pseudolus,2026-09-28 21:06:27.123241
+49868561,Flock seeks to have security researchers' map of Flock cameras taken down,science,9,2,sbulaev,2026-09-28 21:06:27.123324
+49835866,Ask HN: Any nerds out there who've read a lot of research papers?,science,29,28,shriy-singh,2026-09-28 21:06:27.123472
+49824969,FLAWED's Flaws and What This Means for Industry Research,science,24,4,tob_scott_a,2026-09-28 21:06:27.123580
+49875801,"Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",entertainment,48,16,seamus_c,2026-09-28 21:06:29.125981
+49876760,Show HN: Hntui – A TUI for Hacker News,entertainment,84,35,ahmd-sh,2026-09-28 21:06:29.126293
+49875308,Show HN: Free alternative to graphics design giants,entertainment,27,8,sia_xi,2026-09-28 21:06:29.126382
+49869574,Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi,entertainment,298,119,safaelmali,2026-09-28 21:06:29.126646
+49845172,Show HN: Jev Plays Pokémon Red,entertainment,276,121,pancomplex,2026-09-28 21:06:29.126818
+49858513,Show HN: Reladraw – A diagram language where you decide where to place things,entertainment,398,118,jpwalsh234,2026-09-28 21:06:29.126895
+49870394,"Show HN: Cartopolis, interactive globe-sized 3D world",entertainment,16,6,jvanveen,2026-09-28 21:06:29.126914
+49824144,Show HN: A CC0 museum of retro 3D tricks you can paste into a page,entertainment,75,14,SouthWestAtlas,2026-09-28 21:06:29.127024
+49852302,Jury finds Facebook liable for deceiving users in Cambridge Analytica case,entertainment,421,106,pseudolus,2026-09-28 21:06:29.127067
+49869904,Show HN: A bookshelf of rare company documents and out-of-print tech books,entertainment,10,0,miletus,2026-09-28 21:06:29.127088
+49871569,"Show HN: Fusor – Like Vue, but the logic is Rust",entertainment,6,1,andreespirela,2026-09-28 21:06:29.127125
+49849986,Show HN: Ekselio – Loveable for finance workflows (local first),entertainment,40,12,kdautaj,2026-09-28 21:06:29.127143
+49844497,Show HN: Hacker Atlas - A map of what Hacker News talks about,entertainment,86,28,andrearitossa,2026-09-28 21:06:29.127261
+49872766,"Musk, the Movie",entertainment,168,126,yablak,2026-09-28 21:06:29.127310
+49868710,"Show HN: Gat – Version large files with Git, without an LFS server",entertainment,7,0,davnn,2026-09-28 21:06:29.127385
+49867443,"Show HN: High-performance, zero-dependency charting engine for Svelte",entertainment,6,0,bonguynvan,2026-09-28 21:06:29.127425
+49858409,"Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",entertainment,21,2,jsLavaGoat,2026-09-28 21:06:29.127554
+49827375,Show HN: Air-gapped file encryption as self-decrypting HTML page,entertainment,90,31,emurlin,2026-09-28 21:06:29.127593
